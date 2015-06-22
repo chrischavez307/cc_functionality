@@ -9,6 +9,5 @@
 	
 	include "inc/title-tags.php";
 	include "inc/links.php";
-	include "inc/dashboard-widget.php";
 
 ?>
